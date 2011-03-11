@@ -1,0 +1,3 @@
+class ActionController::Base
+  
+end
